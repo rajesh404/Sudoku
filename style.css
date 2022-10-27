@@ -1,7 +1,7 @@
 #container{
     height: auto;
     width: 540px;
-    background-color: white;
+    background-color: pink;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -35,7 +35,7 @@
 }
 
 #container div:hover{
-    background-color: skyblue;
+    background-color: green;
 }
 
 .lsb{
