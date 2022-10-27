@@ -1,3 +1,3 @@
 # Sudoku solver with HTML, CSS and JS using backtracking.
 
-[Live](https://sudoku-solver-backtracking.netlify.app/)
+See live demo [here](https://sudoku-solver-backtracking.netlify.app/)
